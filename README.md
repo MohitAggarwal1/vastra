@@ -1,14 +1,14 @@
-# Vastra - Clothing [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-blue)](https://github.com/MohitAggarwal1/Vastra/)
+# Vastra [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-blue)](https://mohitaggarwal1.github.io/Vastra/)
 
-![Vastra - Clothing](./img/misc/index.png)
+![Vastra](./img/misc/index.png)
 
 ## Live Demo
 
-Check out the live website [here](https://github.com/MohitAggarwal1/Vastra/).
+Check out the live website [here](https://mohitaggarwal1.github.io/Vastra/).
 
 ## Introduction
 
-Welcome to Vastra - Clothing, an innovative e-commerce platform designed to provide a seamless and enjoyable online shopping experience. Crafted with precision using HTML, CSS, and JavaScript, Vastra brings a wide array of fashionable clothing items to your fingertips. Our website is designed to be user-friendly and highly responsive, ensuring that users can browse and purchase clothing items with ease, regardless of the device they are using.
+Welcome to Vastra, an innovative e-commerce platform designed to provide a seamless and enjoyable online shopping experience. Crafted with precision using HTML, CSS, and JavaScript, Vastra brings a wide array of fashionable clothing items to your fingertips. Our website is designed to be user-friendly and highly responsive, ensuring that users can browse and purchase clothing items with ease, regardless of the device they are using.
 
 Vastra is more than just an online store; it's a complete shopping experience that combines aesthetic design, functionality, and performance. Our goal is to offer a smooth and intuitive interface that enhances the overall shopping experience for our customers.
 
@@ -56,12 +56,12 @@ Follow these instructions to set up the project on your local machine.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/clothing-ecommerce-website.git
+    git clone https://github.com/mohitaggarwal1/vastra.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd clothing-ecommerce-website
+    cd vastra
     ```
 
 3. Open `index.html` in your web browser to view the website.
